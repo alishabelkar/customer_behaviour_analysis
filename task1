@@ -1,0 +1,14 @@
+# Customer Behavior Analysis
+
+This project analyzes customer transactions to identify:
+- Customer segments
+- Purchase patterns
+- Churn risk
+
+## Tools Used
+Python, Pandas, Matplotlib, Scikit-learn
+
+## Features
+- RFM Analysis
+- K-Means Clustering
+- Data Visualization
